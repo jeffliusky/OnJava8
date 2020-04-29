@@ -1,7 +1,7 @@
 
 # 前言
 
-> 本书基于 Java 8 版本来教授当前 Java 编程的最优实践。
+> 本书基于 Java 8 版本来教授当前 Java 编程的最优实践。这本书非常好的讲解了Java 个各种特性。
 
 此前，我的另一本 Java 书籍 *Thinking in Java, 4th Edition*（《Java编程思想》 第 4 版 Prentice Hall 2006）依然适用于 Java 5 编程。Android 编程就是始于此语言版本。
 
